@@ -1,0 +1,1 @@
+$ kubectl create secret docker-registry regcred --docker-server=192.168.0.33 --docker-username=user1 --docker-password=Harbor12345 --docker-email=
